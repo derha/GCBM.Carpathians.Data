@@ -1,1 +1,1 @@
-# GCBM.Carpathians.Guide
+# Data preprocessing for GCBM.Carpathians
